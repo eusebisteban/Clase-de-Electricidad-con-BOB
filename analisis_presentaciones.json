@@ -1,0 +1,946 @@
+[
+  {
+    "filename": "S12_campo_magnetico.pptx",
+    "total_slides": 12,
+    "slides": [
+      {
+        "slide_num": 1,
+        "texts": [
+          "Electricidad y magnetismo",
+          "M. En c. Esteban eusebio Martín"
+        ],
+        "text_count": 2
+      },
+      {
+        "slide_num": 2,
+        "texts": [
+          "flujo magnético",
+          "10",
+          "En una placa circular de 5 cm de radio existe una densidad de flujo magnético de 3 teslas. Calcular el flujo magnético total a través de la placa, en webers y maxwells.",
+          "Una espira de 0.6 cm de ancho por 16 cm de largo forma un ángulo de 42° respecto al flujo magnético. Determinar el flujo magnético que penetra por la espira debido a un campo magnético cuya densidad de flujo es de 0.8 teslas.",
+          "Una barra de hierro cuya permeabilidad relativa es de 12 500 se coloca en una región de un campo magnético en el cual la densidad del flujo magnético es de 0.6 teslas. ¿Cuál es la intensidad del campo magnético originada por la permeabilidad del hierro? ",
+          "𝜇",
+          "𝑟",
+          "𝐹𝑒",
+          "=",
+          "12500",
+          ", ",
+          "𝜇",
+          "0",
+          "=",
+          "4",
+          "𝜋",
+          "×",
+          "10",
+          "−",
+          "7",
+          "𝑇𝑚",
+          "/",
+          "𝐴",
+          " "
+        ],
+        "text_count": 24
+      },
+      {
+        "slide_num": 3,
+        "texts": [
+          "Ejercicios"
+        ],
+        "text_count": 1
+      },
+      {
+        "slide_num": 4,
+        "texts": [
+          "flujo magnético",
+          "12",
+          "En una placa rectangular que mide 1 cm de ancho por 2 cm de largo, existe una densidad de flujo magnético de 1.5 T. ¿Cuál es el flujo magnético total a través de la placa en webers y maxwells?",
+          "Calcular el flujo magnético que penetra por una espira de 8 cm de ancho por 14 cm de largo y forma un ángulo de 30° respecto a un campo magnético cuya densidad de flujo es de 0.15 T.",
+          "Se coloca una placa de hierro con una permeabilidad relativa de 12 500 en una región de un campo magnético en el cual la densidad de flujo vale 0.5 T. Calcular la intensidad del campo magnético originada por la permeabilidad del hierro."
+        ],
+        "text_count": 5
+      },
+      {
+        "slide_num": 5,
+        "texts": [
+          "Campo magnético",
+          "Michael Faraday observó que un imán permanente ejerce una fuerza sobre un trozo de hierro o sobre cualquier imán cercano a él, debido a la presencia de un campo de fuerzas cuyos efectos se hacen sentir incluso a través de un espacio vacío",
+          "Faraday imaginó que de un imán salían hilos o líneas que se esparcían, a éstas las llamó líneas de fuerza magnética",
+          "Las líneas de fuerza producidas por un imán, ya sea de barra o de herradura, se esparcen desde el polo norte y se curvan para entrar al sur",
+          "A la zona que rodea a un imán y en la cual su influencia puede detectarse recibe el nombre de ",
+          "campo magnético",
+          "2"
+        ],
+        "text_count": 7
+      },
+      {
+        "slide_num": 6,
+        "texts": [
+          "Campo magnético",
+          "3"
+        ],
+        "text_count": 2
+      },
+      {
+        "slide_num": 7,
+        "texts": [
+          "Densidad de flujo magnético",
+          "Una sola línea de fuerza equivale a la unidad de flujo magnético φ en el Sistema CGS y recibe el nombre de maxwell",
+          "Ésta es una unidad muy pequeña de flujo magnético, por lo que en el Sistema Internacional se emplea una unidad mucho mayor llamada weber y cuya equivalencia es la siguiente:",
+          "1",
+          " ",
+          "𝑤𝑒𝑏𝑒𝑟",
+          "=",
+          "1",
+          "×",
+          "10",
+          "8",
+          " ",
+          "𝑚𝑎𝑥𝑤𝑒𝑙𝑙𝑠",
+          " ",
+          "4"
+        ],
+        "text_count": 15
+      },
+      {
+        "slide_num": 8,
+        "texts": [
+          "Densidad de flujo magnético",
+          "Un flujo magnético ",
+          "φ ",
+          "que atraviesa perpendicularmente una unidad de área A recibe el nombre de densidad de flujo magnético o inducción magnética ",
+          "B",
+          "La densidad del flujo magnético en una región de un campo magnético equivale al número de líneas de fuerza que atraviesan perpendicularmente a la unidad de área",
+          "𝐵",
+          "=",
+          "𝜙",
+          "𝐴",
+          "∴",
+          "𝜙",
+          "=",
+          "𝐵𝐴",
+          "Donde:",
+          "B ",
+          "= densidad del flujo magnético, webers/metro cuadrado (Wb/m2)",
+          "φ = flujo magnético, su unidad es el weber (Wb)",
+          "A = área sobre la que actúa el flujo magnético, metros cuadrados (m2)",
+          " ",
+          "5"
+        ],
+        "text_count": 21
+      },
+      {
+        "slide_num": 9,
+        "texts": [
+          "Densidad de flujo magnético",
+          "En el SI la unidad de densidad del flujo magnético es el Wb/m2, el cual recibe el nombre de tesla (T)",
+          "Cuando el flujo magnético no penetra perpendicularmente un área, sino que lo hace con un cierto ángulo, la expresión para calcular la densidad del flujo magnético será:",
+          "𝐵",
+          "=",
+          "𝜙",
+          "𝐴",
+          "sin",
+          "𝜃",
+          "∴",
+          "𝜙",
+          "=",
+          "𝐵𝐴",
+          "sin",
+          "𝜃",
+          "Donde:",
+          "θ = ángulo formado por el flujo magnético y la normal a la superficie",
+          " ",
+          "6"
+        ],
+        "text_count": 19
+      },
+      {
+        "slide_num": 10,
+        "texts": [
+          "Intensidad del campo magnético",
+          "El vector intensidad del campo magnético es el cociente que resulta de la densidad del flujo magnético entre la permeabilidad magnética del medio:",
+          "𝐻",
+          "=",
+          "𝐵",
+          "𝜇",
+          "∴",
+          "𝐵",
+          "=",
+          "𝜇",
+          "𝐻",
+          "Donde:",
+          "H ",
+          "= intensidad del campo magnético, ampere/metro (A/m)",
+          "B ",
+          "= densidad del flujo magnético, teslas (T )",
+          "μ = permeabilidad magnética del medio, tesla metro/ampere (Tm/A)",
+          " ",
+          "7"
+        ],
+        "text_count": 19
+      },
+      {
+        "slide_num": 11,
+        "texts": [
+          "Materiales ferromagnéticos, paramagnéticos y diamagnéticos",
+          "Al colocar un objeto dentro de un campo magnético pueden presentarse las siguientes situaciones:",
+          "Que las líneas del flujo magnético fluyan con mucha mayor facilidad a través del objeto que por el vacío",
+          "En este caso el material será ferromagnético y debido a ello se magnetizará con gran intensidad",
+          "Que las líneas del flujo magnético pasen relativamente con cierta facilidad por el objeto que a través del vacío",
+          "En este caso, se trata de un material paramagnético, el cual se magnetiza aunque no en forma muy intensa",
+          "Que las líneas del flujo magnético circulen más fácilmente en el vacío que por el objeto",
+          "En este caso el material será diamagnético, pues no se magnetiza y puede ser repelido débilmente por un campo magnético intenso",
+          "8"
+        ],
+        "text_count": 9
+      },
+      {
+        "slide_num": 12,
+        "texts": [
+          "ejemplo"
+        ],
+        "text_count": 1
+      }
+    ]
+  },
+  {
+    "filename": "S13_campo_magnetico_por_corriente.pptx",
+    "total_slides": 14,
+    "slides": [
+      {
+        "slide_num": 1,
+        "texts": [
+          "Electricidad y magnetismo",
+          "M. En c. Esteban eusebio Martín"
+        ],
+        "text_count": 2
+      },
+      {
+        "slide_num": 2,
+        "texts": [
+          "Fuerza entre dos conductores",
+          "Cuando se tienen dos alambres rectos, largos y paralelos y por ellos circula una corriente eléctrica, debido a la interacción de sus campos magnéticos se produce una fuerza entre ellos cuya magnitud puede calcularse con la siguiente expresión:",
+          "𝐹",
+          "=",
+          "𝜇",
+          "0",
+          "𝐼",
+          "1",
+          "𝐼",
+          "2",
+          "ℓ",
+          "2",
+          "𝜋",
+          "𝑟",
+          "=",
+          "2",
+          "K",
+          "m",
+          "ℓ",
+          "𝐼",
+          "1",
+          "𝐼",
+          "2",
+          "𝑟",
+          "Donde:",
+          "F ",
+          "= fuerza magnética entre dos conductores, newtons (N)",
+          "𝜇",
+          "0",
+          " = permeabilidad magnética del vacío igual a ",
+          "4",
+          "𝜋",
+          "×",
+          "10",
+          "−7",
+          " ",
+          "Tm",
+          "/",
+          "A",
+          "𝐼",
+          "1",
+          " = intensidad de la corriente en el primer conductor, amperes (A)",
+          "𝐼",
+          "2",
+          " = intensidad de la corriente en el segundo conductor, amperes (A)",
+          "ℓ",
+          " = longitud considerada de los conductores medida en metros (m)",
+          "r ",
+          "= distancia entre los dos conductores, metros (m)",
+          "𝐾",
+          "𝑚",
+          " = Constante magnética, ",
+          "1",
+          "×",
+          "10",
+          "−7",
+          "N",
+          "𝐴",
+          "2",
+          " ",
+          "10"
+        ],
+        "text_count": 61
+      },
+      {
+        "slide_num": 3,
+        "texts": [
+          "ejemplo"
+        ],
+        "text_count": 1
+      },
+      {
+        "slide_num": 4,
+        "texts": [
+          "Campo magnético",
+          "12",
+          "Determinar la inducción magnética en el centro de una espira cuyo radio es de 2 cm, si por ella circula una corriente de 3 A. La espira se encuentra en el aire",
+          "Calcular la inducción magnética o densidad de flujo en el aire, en un punto a 5 cm de un conductor recto por el que circula una intensidad de corriente de 1.5 A",
+          "Calcular el radio de una bobina que tiene 600 espiras de alambre en el aire por la cual circula una corriente de 7 A y se produce una inducción magnética en su centro de ",
+          "6",
+          "×",
+          "10",
+          "−3",
+          " T",
+          "Por un alambre recto circula una corriente de 8 miliamperes. Si dicho alambre se introduce entre los polos de un imán de herradura y queda sumergido 2 cm en forma perpendicular al campo de 0.2 T de inducción magnética, calcular la magnitud de la fuerza que recibe",
+          "Por un conductor recto circula una corriente de 3 A y a través de otro, que esta paralelo a una distancia de 7 cm, circula una corriente de 5 A. Calcular la magnitud de la fuerza recibida por cualquiera de los conductores si su longitud es de 0.4 m y se encuentran en el aire",
+          " "
+        ],
+        "text_count": 13
+      },
+      {
+        "slide_num": 5,
+        "texts": [
+          "Ejercicios"
+        ],
+        "text_count": 1
+      },
+      {
+        "slide_num": 6,
+        "texts": [
+          "Campo magnético",
+          "14",
+          "Determinar la inducción magnética en el aire, en un punto a 6 cm de un conductor recto por el que circula una intensidad de corriente de 2 A",
+          "¿Cuál es la inducción magnética en el centro de una espira por la cual circula una corriente de 1 A, si esta en el aire y su radio es de 11 cm?",
+          "Calcular la intensidad de la corriente que debe circular por una bobina de 500 espiras de alambre en el aire, cuyo radio es de 5 cm, para que produzca una inducción magnética en su centro de ",
+          "7",
+          "×",
+          "10",
+          "−3",
+          " T.",
+          "¿Qué magnitud de fuerza recibe un alambre recto por el cual circula una corriente de 5 mA al ser introducido perpendicularmente a un campo de 0.6 T, si quedan 8 cm de alambre dentro del campo?",
+          "Dos conductores rectos se encuentran paralelos a una distancia de 3 cm. Por uno circula una corriente de 5 A y por el otro una de 6 A. Si la longitud considerada de los conductores es de 70 cm, calcular la magnitud de la fuerza que recibe cualquiera de los conductores al estar en el aire",
+          " "
+        ],
+        "text_count": 13
+      },
+      {
+        "slide_num": 7,
+        "texts": [
+          "Campo producido por una corriente",
+          "Oersted descubrió que una corriente eléctrica crea a su alrededor un campo magnético",
+          "El campo magnético producido puede analizarse para su estudio como si se tratara del campo creado por un imán, de tal manera que sea posible obtener su espectro y observar sus efectos",
+          "2"
+        ],
+        "text_count": 4
+      },
+      {
+        "slide_num": 8,
+        "texts": [
+          "conductor recto",
+          "La regla de Ampere nos señala el sentido de las líneas de fuerza, pero también podemos aplicar la regla de la mano izquierda: ",
+          "Como la dirección del campo magnético depende del sentido de la corriente, se toma al conductor recto con la mano izquierda con el pulgar extendido sobre el conductor, este debe señalar el sentido en el que circula la corriente eléctrica y los cuatro dedos restantes indicaran el sentido del campo magnético",
+          "3"
+        ],
+        "text_count": 4
+      },
+      {
+        "slide_num": 9,
+        "texts": [
+          "conductor recto",
+          "Para determinar la inducción magnética o densidad de flujo magnético (",
+          "B",
+          ") a una cierta distancia ",
+          "d ",
+          "de un conductor recto por el que circula una intensidad de corriente ",
+          "I",
+          ", se aplica la siguiente expresión matemática",
+          "𝐵",
+          "=",
+          "𝜇",
+          "𝐼",
+          "2",
+          "𝜋",
+          "𝑑",
+          "Donde:",
+          "B ",
+          "= inducción magnética, se mide en teslas (T)",
+          "μ = permeabilidad del medio, se expresa en Tm",
+          "/",
+          "A",
+          "I ",
+          "= intensidad de la corriente, ampere (A)",
+          "d ",
+          "= distancia perpendicular entre el conductor y el punto considerado, se mide en metros (m)",
+          " ",
+          "4"
+        ],
+        "text_count": 27
+      },
+      {
+        "slide_num": 10,
+        "texts": [
+          "Campo por espira",
+          "Una espira se obtiene al doblar en forma circular un conductor recto",
+          "El espectro del campo magnético creado por esta, se origina por líneas cerradas que rodean a la corriente y por una línea recta que es el eje central del circulo seguido por la corriente",
+          "5"
+        ],
+        "text_count": 4
+      },
+      {
+        "slide_num": 11,
+        "texts": [
+          "Campo por espira",
+          "Para calcular el valor de la inducción magnética o densidad de flujo (",
+          "B",
+          ") en el centro de una espira se usa la siguiente expresión matemática",
+          "𝐵",
+          "=",
+          "𝜇",
+          "𝐼",
+          "2",
+          "𝑟",
+          "Donde:",
+          "B ",
+          "= inducción magnética en el centro de una espira, ",
+          "se ",
+          "mide",
+          " en teslas (T )",
+          "μ = permeabilidad del medio en el centro de la espira, se expresa en Tm",
+          "/",
+          "A",
+          "I ",
+          "= intensidad de la corriente, ampere (A)",
+          "r ",
+          "= radio de la espira, se mide en metros (m)",
+          " ",
+          "6"
+        ],
+        "text_count": 25
+      },
+      {
+        "slide_num": 12,
+        "texts": [
+          "Campo por solenoide o bobina",
+          "Un solenoide se obtiene al enrollar un alambre en forma helicoidal (devanar)",
+          "7"
+        ],
+        "text_count": 3
+      },
+      {
+        "slide_num": 13,
+        "texts": [
+          "Campo por solenoide o bobina",
+          "Para calcular la inducción magnética o densidad de flujo ",
+          "B ",
+          "en el interior de un solenoide, se utiliza la expresión matemática:",
+          "𝐵",
+          "=",
+          "𝑁",
+          "𝜇",
+          "𝐼",
+          "ℓ",
+          "Donde:",
+          "B ",
+          "= inducción magnética en el interior de un solenoide, ",
+          "teslas (T )",
+          "N ",
+          "= numero de vueltas o espiras",
+          "μ = permeabilidad del medio en el interior del solenoide, Tm",
+          "/",
+          "A",
+          "I ",
+          "= intensidad de la corriente calculada en amperes (A)",
+          "ℓ",
+          " = longitud del solenoide medida en metros (m)",
+          " ",
+          "8"
+        ],
+        "text_count": 25
+      },
+      {
+        "slide_num": 14,
+        "texts": [
+          "Fuerza sobre un conductor",
+          "Un conductor por el que circula una corriente esta rodeado de un campo magnético. Si el conductor se introduce en forma perpendicular a un campo magnético recibirá una fuerza lateral cuya magnitud se determina con la expresión matemática:",
+          "𝐹",
+          "=",
+          "𝐵𝐼",
+          "ℓ",
+          "Donde:",
+          "F ",
+          "= magnitud de la fuerza magnética que recibe el conductor newtons (N)",
+          "B ",
+          "= inducción magnética, teslas (T )",
+          "I ",
+          "= intensidad de la corriente eléctrica, amperes (A)",
+          " ",
+          "ℓ ",
+          " ",
+          "= longitud del conductor sumergido en el campo magnético, metros (m)",
+          " ",
+          "9"
+        ],
+        "text_count": 19
+      }
+    ]
+  },
+  {
+    "filename": "S14_Inducción.pptx",
+    "total_slides": 9,
+    "slides": [
+      {
+        "slide_num": 1,
+        "texts": [
+          "Electricidad y magnetismo",
+          "M. En c. Esteban eusebio Martín"
+        ],
+        "text_count": 2
+      },
+      {
+        "slide_num": 2,
+        "texts": [
+          "Inducción electromagnética",
+          "De acuerdo con los experimentos realizados por Faraday podemos decir que:",
+          "Las corrientes inducidas son aquellas producidas cuando se mueve un conductor en sentido transversal a las líneas de flujo de un campo magnético",
+          "La inducción electromagnética es el fenómeno que da origen a la producción de una fuerza electromotriz (",
+          "fem",
+          ") y de una corriente eléctrica inducida, como resultado de la variación del flujo magnético debido al movimiento relativo entre un conductor y un campo magnético",
+          "2"
+        ],
+        "text_count": 7
+      },
+      {
+        "slide_num": 3,
+        "texts": [
+          "Ley de Lenz",
+          "Siempre que se induce una ",
+          "fem",
+          ", la corriente inducida tiene un sentido tal que tiende a oponerse a la causa que lo produce",
+          "El sentido de la corriente inducida es contrario al de la corriente requerida para provocar el movimiento del campo magnético que la ha creado",
+          "3"
+        ],
+        "text_count": 6
+      },
+      {
+        "slide_num": 4,
+        "texts": [
+          "Ley del electromagnetismo",
+          "o de inducción de Faraday",
+          "La ",
+          "fem",
+          " ",
+          "inducida en un circuito formado por un conductor o una bobina es directamente proporcional al numero de líneas de fuerza magnética cortadas en un segundo",
+          "La ",
+          "fem",
+          " ",
+          "inducida en un circuito es directamente proporcional a la rapidez con que cambia el flujo magnético que envuelve",
+          "𝜀",
+          "=−",
+          "∆",
+          "𝜙",
+          "∆",
+          "𝑡",
+          "=−",
+          "𝜙",
+          "𝑓",
+          "−",
+          "𝜙",
+          "𝑖",
+          "𝑡",
+          "Donde:",
+          "𝜀",
+          ": ",
+          "fem",
+          " media inducida, volts",
+          "𝜙",
+          "𝑓",
+          ": Flujo magnético final, webers",
+          "𝜙",
+          "𝑖",
+          ": Flujo magnético inicial, webers",
+          "𝑡",
+          ": Tiempo en que se realiza la variación del flujo, segundos",
+          " ",
+          "4"
+        ],
+        "text_count": 38
+      },
+      {
+        "slide_num": 5,
+        "texts": [
+          "Ley del electromagnetismo",
+          "o de inducción de Faraday",
+          "Cuando se trata de una bobina que tiene ",
+          "N ",
+          "numero de vueltas o espiras, la expresión matemática para calcular la ",
+          "fem",
+          " ",
+          "inducida será: ",
+          "𝜀",
+          "=−",
+          "𝑁",
+          "𝜙",
+          "𝑓",
+          "−",
+          "𝜙",
+          "𝑖",
+          "𝑡",
+          "Al calcular la ",
+          "fem",
+          " ",
+          "inducida en un conductor recto de longitud ",
+          "ℓ",
+          " que se desplaza con una magnitud de velocidad ",
+          "𝑣",
+          " en forma perpendicular a un campo de inducción magnética ",
+          "B ",
+          "se utiliza la expresión",
+          "𝜀",
+          "=",
+          "𝐵",
+          "ℓ",
+          "𝑣",
+          " ",
+          "5"
+        ],
+        "text_count": 34
+      },
+      {
+        "slide_num": 6,
+        "texts": [
+          "ejemplo"
+        ],
+        "text_count": 1
+      },
+      {
+        "slide_num": 7,
+        "texts": [
+          "Inducción",
+          "7",
+          "Un conductor rectilíneo de 5 cm de longitud se mueve perpendicularmente a un campo de inducción magnética igual a 0.6 T con una velocidad cuya magnitud es de 1.5 m/s. ¿Cual es la ",
+          "fem",
+          " ",
+          "inducida?",
+          "Una bobina de 400 espiras emplea ",
+          "5",
+          "×",
+          "10",
+          "−2",
+          " s en pasar entre los polos de un imán en forma de U desde un lugar donde el flujo magnético es de ",
+          "1.",
+          "5",
+          "×",
+          "10",
+          "−",
+          "4",
+          " Wb, a otro en el que este es igual a ",
+          "6",
+          "×",
+          "10",
+          "−",
+          "4",
+          " Wb ¿Cual es la ",
+          "fem",
+          " ",
+          "media inducida?",
+          "El flujo magnético que cruza una espira de alambre varia de ",
+          "1",
+          "×",
+          "10",
+          "−",
+          "3",
+          " a ",
+          "5",
+          "×",
+          "10",
+          "−",
+          "3",
+          " webers en ",
+          "2",
+          "×",
+          "10",
+          "−2",
+          " ",
+          "segundos. ¿Que ",
+          "fem",
+          " ",
+          "media se induce en el alambre?",
+          " "
+        ],
+        "text_count": 51
+      },
+      {
+        "slide_num": 8,
+        "texts": [
+          "Ejercicios"
+        ],
+        "text_count": 1
+      },
+      {
+        "slide_num": 9,
+        "texts": [
+          "Inducción",
+          "9",
+          "Un conductor rectilíneo de 12 cm de longitud se mueve perpendicularmente a un campo de inducción magnética igual a 0.27 T con una velocidad cuya magnitud es de ",
+          "4",
+          "×",
+          "10",
+          "3",
+          " m/s. ¿Cual es la ",
+          "fem",
+          " ",
+          "inducida?",
+          "Una bobina de 200 espiras emplea ",
+          "2",
+          "×",
+          "10",
+          "−2",
+          " s en pasar entre los polos de un imán en forma de U desde un lugar donde el flujo magnético es de ",
+          "5",
+          "×",
+          "10",
+          "−",
+          "3",
+          " Wb, a otro en el que este es igual a ",
+          "8",
+          "×",
+          "10",
+          "−",
+          "3",
+          " Wb ¿Cual es la ",
+          "fem",
+          " ",
+          "media inducida?",
+          "Calcular el tiempo necesario para efectuar una variación de ",
+          "6",
+          "×",
+          "10",
+          "−",
+          "4",
+          " ",
+          "Wb en el flujo magnético, al desplazarse una bobina de 500 vueltas entre los polos de un imán en forma de herradura, el cual genera una ",
+          "fem",
+          " ",
+          "media inducida de 20 V.",
+          " "
+        ],
+        "text_count": 44
+      }
+    ]
+  },
+  {
+    "filename": "S15_Inductancia.pptx",
+    "total_slides": 9,
+    "slides": [
+      {
+        "slide_num": 1,
+        "texts": [
+          "Electricidad y magnetismo",
+          "M. En c. Esteban eusebio Martín"
+        ],
+        "text_count": 2
+      },
+      {
+        "slide_num": 2,
+        "texts": [
+          "Inductancia",
+          "Por definición: ",
+          "la autoinducción es la producción de una ",
+          "fem",
+          " ",
+          "en un circuito por la variación de la corriente en ese circuito",
+          "La ",
+          "fem",
+          " inducida siempre se opone al cambio de corriente",
+          "La capacidad de una bobina de producir una ",
+          "fem",
+          " autoinducida se ide con una magnitud llamada ",
+          "inductancia",
+          "La bobina es conocida como ",
+          "autoinductor",
+          " o inductor",
+          "La unidad de la inductancia es el Henry (H)",
+          "2"
+        ],
+        "text_count": 18
+      },
+      {
+        "slide_num": 3,
+        "texts": [
+          "Inductancia",
+          "𝐿",
+          "=−",
+          "𝜀",
+          "∆",
+          "𝑖",
+          "∆",
+          "𝑡",
+          "𝜀",
+          "=−",
+          "𝐿",
+          "∆",
+          "𝑖",
+          "∆",
+          "𝑡",
+          "Donde:",
+          "𝐿",
+          ": inductancia expresada en volt-segundo/ampere = ",
+          "henry",
+          " (H)",
+          "𝜀",
+          ": ",
+          "fem",
+          " inducida, volts (V)",
+          "∆",
+          "𝑖",
+          ": cambio de la corriente, amperes (A)",
+          "∆",
+          "𝑡",
+          ": tiempo en el que se efectúa el cambio, segundos (s)",
+          " ",
+          "3"
+        ],
+        "text_count": 32
+      },
+      {
+        "slide_num": 4,
+        "texts": [
+          "inductancia",
+          "Para el caso de una bobina larga de sección transversal uniforme, la inductancia se calcula con:",
+          "𝐿",
+          "=",
+          "𝜇",
+          "𝑁",
+          "2",
+          "𝐴",
+          "ℓ",
+          "Donde:",
+          "𝐿",
+          ": inductancia de la bobina, ",
+          "henrys",
+          " (H)",
+          "𝜇",
+          ": permeabilidad magnética del núcleo, weber/ampere-metro (Wb/Am)",
+          "𝑁",
+          ": número de espiras de la bobina",
+          "𝐴",
+          ": área de la sección transversal del núcleo, ",
+          "𝑚",
+          "2",
+          "ℓ",
+          ": longitud de la bobina, metros (m)",
+          " ",
+          "4"
+        ],
+        "text_count": 26
+      },
+      {
+        "slide_num": 5,
+        "texts": [
+          "Inductancia mutua ",
+          "Cuando dos bobinas se colocan una cerca de la otra, al pasar una corriente ",
+          "i ",
+          "por una de ellas, creara un campo magnético cuyo flujo penetrara a través de la otra, de tal manera que se puede inducir una ",
+          "fem",
+          " ",
+          "en cada una por el efecto de la otra",
+          "La bobina en la que circula la corriente en forma inicial recibe el nombre de ",
+          "bobina primaria",
+          ", y en la que se induce una ",
+          "fem",
+          ", ",
+          "bobina secundaria",
+          "El valor de la ",
+          "fem",
+          " ",
+          "secundaria inducida es directamente proporcional a la rapidez con que cambia la corriente en la bobina primaria",
+          "𝑀",
+          "=",
+          "𝜀",
+          "𝑠",
+          "∆",
+          "𝑡",
+          "∆",
+          "𝑖",
+          "𝑝",
+          "Donde:",
+          "𝑀",
+          ": constante que recibe el nombre de inducción mutua del sistema",
+          " ",
+          "5"
+        ],
+        "text_count": 31
+      },
+      {
+        "slide_num": 6,
+        "texts": [
+          "ejemplo"
+        ],
+        "text_count": 1
+      },
+      {
+        "slide_num": 7,
+        "texts": [
+          "Inductancia",
+          "7",
+          "Un alambre de cobre se enrolla en forma de solenoide sobre un núcleo de hierro de 2 cm de diámetro y 10 cm de largo. Si la bobina tiene 400 espiras y la permeabilidad magnética del hierro es de ",
+          "1.8",
+          "×",
+          "10",
+          "−3",
+          " Wb/Am. Calcular la inductancia de la bobina",
+          "Calcular la fuerza electromotriz inducida en una bobina cuya inductancia es de 0.4 H, si la corriente ",
+          "varia 75 mA cada segundo",
+          "Una bobina cuya corriente varia con una rapidez de 3 A/s se encuentra cerca de otra a la cual le induce una ",
+          "fem",
+          " ",
+          "de 50 milivolts. Calcular la inducción mutua de las dos bobinas",
+          " "
+        ],
+        "text_count": 15
+      },
+      {
+        "slide_num": 8,
+        "texts": [
+          "Ejercicios"
+        ],
+        "text_count": 1
+      },
+      {
+        "slide_num": 9,
+        "texts": [
+          "Inductancia",
+          "9",
+          "Calcular la ",
+          "fem",
+          " ",
+          "inducida en una bobina que produce una inductancia de 8 ",
+          "mH",
+          " cuando la corriente varia 30 mA cada segundo",
+          "Determinar la inductancia que se produce en una bobina formada por un alambre de cobre enrollado sobre un núcleo de hierro de 6 cm de diámetro y 30 cm de largo. El alambre tiene 400 espiras y la permeabilidad magnética del hierro es de ",
+          "8",
+          "×",
+          "10",
+          "−4",
+          " Wb/Am",
+          "A través de una bobina hay una variación en la corriente de 4 A/s y al encontrarse cerca de otra le induce una ",
+          "fem",
+          " ",
+          "de 20 milivolts. .Cual es la inducción mutua de las bobinas?",
+          " "
+        ],
+        "text_count": 19
+      }
+    ]
+  }
+]

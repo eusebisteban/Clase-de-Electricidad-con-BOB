@@ -1,0 +1,98 @@
+================================================================================
+INSTRUCCIONES PARA INSERTAR FÓRMULAS MATEMÁTICAS
+================================================================================
+
+He creado la presentación S16_Transformadores.pptx con tu tema y colores.
+
+Para las fórmulas matemáticas, necesitas insertarlas manualmente en PowerPoint
+usando la función "Insertar > Ecuación" (o Alt + =)
+
+A continuación te proporciono las fórmulas en formato LaTeX/matemático
+para que las copies directamente en el editor de ecuaciones de PowerPoint:
+
+================================================================================
+SLIDE 3: relacion de transformacion
+================================================================================
+
+Fórmula principal:
+V_p/V_s = N_p/N_s
+
+En el editor de ecuaciones de PowerPoint:
+1. Insertar > Ecuación
+2. Escribir: Vp/Vs = Np/Ns
+3. Usar subíndices (botón _) para p y s
+
+Alternativa con fracciones:
+- Usar el botón de fracción en la cinta de ecuaciones
+- Numerador: Vp    Denominador: Vs
+- Igual
+- Numerador: Np    Denominador: Ns
+
+================================================================================
+SLIDE 4: conservacion de la potencia
+================================================================================
+
+Fórmulas:
+
+1) P_p = P_s
+   En PowerPoint: Pp = Ps (con subíndices)
+
+2) V_p I_p = V_s I_s
+   En PowerPoint: VpIp = VsIs (con subíndices)
+
+3) I_p/I_s = N_s/N_p = V_s/V_p
+   En PowerPoint: Ip/Is = Ns/Np = Vs/Vp (con subíndices y fracciones)
+
+================================================================================
+ALTERNATIVA RÁPIDA
+================================================================================
+
+Si prefieres, puedes:
+
+OPCIÓN 1: Usar caracteres Unicode (como en tus presentaciones actuales)
+- Vₚ/Vₛ = Nₚ/Nₛ
+- VₚIₚ = VₛIₛ
+- Iₚ/Iₛ = Nₛ/Nₚ = Vₛ/Vₚ
+
+OPCIÓN 2: Copiar ecuaciones de tus presentaciones anteriores
+- Abre S15_Inductancia.pptx
+- Copia una ecuación existente
+- Pégala en S16_Transformadores.pptx
+- Edita el contenido
+
+OPCIÓN 3: Usar el editor de ecuaciones de PowerPoint
+- Presiona Alt + = para abrir el editor
+- Escribe la ecuación
+- Usa los botones de la cinta para formato (subíndices, fracciones, etc.)
+
+================================================================================
+UBICACIÓN DE LAS FÓRMULAS EN CADA SLIDE
+================================================================================
+
+SLIDE 3:
+Línea 1: "La relacion entre los voltajes es igual a la relacion entre el numero de espiras:"
+Línea 2: [INSERTAR ECUACIÓN: Vp/Vs = Np/Ns]
+Línea 3: "Donde:"
+Líneas 4-7: Definiciones de variables
+
+SLIDE 4:
+Línea 1: "En un transformador ideal la potencia de entrada es igual a la potencia de salida:"
+Línea 2: [INSERTAR ECUACIÓN: Pp = Ps]
+Línea 3: [INSERTAR ECUACIÓN: VpIp = VsIs]
+Línea 4: "Por lo tanto:"
+Línea 5: [INSERTAR ECUACIÓN: Ip/Is = Ns/Np = Vs/Vp]
+Línea 6: "Donde:"
+Líneas 7-10: Definiciones de variables
+
+================================================================================
+ATAJOS DE TECLADO ÚTILES EN POWERPOINT
+================================================================================
+
+Alt + =          : Insertar ecuación
+Ctrl + =         : Subíndice
+Ctrl + Shift + = : Superíndice
+/                : Crear fracción (en modo ecuación)
+_                : Subíndice (en modo ecuación)
+^                : Superíndice (en modo ecuación)
+
+================================================================================

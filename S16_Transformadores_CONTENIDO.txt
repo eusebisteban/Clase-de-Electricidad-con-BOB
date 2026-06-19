@@ -1,0 +1,124 @@
+================================================================================
+SLIDE 1: PORTADA
+================================================================================
+
+Electricidad y magnetismo
+M. En c. Esteban eusebio Martin
+
+
+================================================================================
+SLIDE 2: transformadores
+================================================================================
+2
+
+El transformador es un dispositivo que funciona por induccion mutua
+
+Se utiliza para elevar o disminuir el voltaje en un circuito de corriente alterna
+
+Consta de dos bobinas:
+Bobina primaria: conectada a la fuente de voltaje de CA
+Bobina secundaria: donde se induce la corriente
+
+Transformador de elevacion: el secundario tiene mas espiras que el primario
+Transformador de reduccion: el secundario tiene menos espiras que el primario
+
+
+================================================================================
+SLIDE 3: relacion de transformacion
+================================================================================
+3
+
+La relacion entre los voltajes es igual a la relacion entre el numero de espiras:
+
+Vp/Vs = Np/Ns
+
+Donde:
+Vp = voltaje en el primario, volts (V)
+Vs = voltaje en el secundario, volts (V)
+Np = numero de espiras en el primario
+Ns = numero de espiras en el secundario
+
+
+================================================================================
+SLIDE 4: conservacion de la potencia
+================================================================================
+4
+
+En un transformador ideal la potencia de entrada es igual a la potencia de salida:
+
+Pp = Ps
+
+VpIp = VsIs
+
+Por lo tanto:
+
+Ip/Is = Ns/Np = Vs/Vp
+
+Donde:
+Pp = potencia en el primario, watts (W)
+Ps = potencia en el secundario, watts (W)
+Ip = corriente en el primario, amperes (A)
+Is = corriente en el secundario, amperes (A)
+
+
+================================================================================
+SLIDE 5: ejemplo
+================================================================================
+
+[Slide separador con imagen o diagrama de un transformador]
+
+
+================================================================================
+SLIDE 6: transformadores
+================================================================================
+10
+
+Un transformador tiene 500 espiras en el primario y 2000 en el secundario. Si se aplica un voltaje de 120 V en el primario, cual es el voltaje en el secundario?
+
+Un transformador reductor tiene una relacion de vueltas de 10:1. Si el voltaje de entrada es de 2400 V, calcular el voltaje de salida
+
+En un transformador ideal, el primario tiene 800 espiras y el secundario 200 espiras. Si la corriente en el primario es de 2 A, cual es la corriente en el secundario?
+
+
+================================================================================
+SLIDE 7: Ejercicios
+================================================================================
+
+[Slide separador]
+
+
+================================================================================
+SLIDE 8: transformadores
+================================================================================
+12
+
+Un transformador tiene 300 espiras en el primario y 900 en el secundario. Si el voltaje en el primario es de 110 V, determinar el voltaje en el secundario
+
+Un transformador elevador tiene un voltaje de entrada de 220 V y un voltaje de salida de 1100 V. Si el primario tiene 400 espiras, cuantas espiras tiene el secundario?
+
+En un transformador ideal, el voltaje del primario es de 240 V y el del secundario es de 60 V. Si la corriente en el secundario es de 8 A, calcular la corriente en el primario
+
+Un transformador tiene 1200 espiras en el primario y 300 en el secundario. Si por el primario circula una corriente de 3 A, cual es la corriente en el secundario?
+
+
+================================================================================
+RESUMEN
+================================================================================
+
+Total de slides: 8
+
+Distribucion:
+- 1 slide: Portada
+- 3 slides: Teoria (slides 2-4)
+- 1 slide: Separador "ejemplo" (slide 5)
+- 1 slide: Ejercicios (slide 6) - 3 problemas
+- 1 slide: Separador "Ejercicios" (slide 7)
+- 1 slide: Ejercicios (slide 8) - 4 problemas
+
+Caracteristicas:
+- Teoria condensada y directa
+- Solo conceptos esenciales
+- Formulas con variables definidas
+- 7 ejercicios en total
+- Sin caracteres especiales problematicos
+- Listo para copiar y pegar
